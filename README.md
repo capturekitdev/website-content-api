@@ -209,7 +209,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 
 ## Related repositories
 
-- [Screenshot API](https://github.com/capturekitdev/screenshot-api)
+- [Screenshot API](https://github.com/capturekitdev/website-screenshot-api)
 - [Full Page Screenshot API](https://github.com/capturekitdev/full-page-screenshot-api)
 - [Website to PDF API](https://github.com/capturekitdev/website-to-pdf-api)
 - [Mobile Screenshot API](https://github.com/capturekitdev/mobile-screenshot-api)
